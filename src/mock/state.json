@@ -1,0 +1,32 @@
+{
+  "listStates": [
+    {
+      "id": "1",
+      "name": "Gujarat"
+    },
+    {
+      "id": "2",
+      "name": "California"
+    },
+    {
+      "id": "3",
+      "name": "Delhi"
+    },
+    {
+      "id": "4",
+      "name": "Indiana"
+    },
+    {
+      "id": "5",
+      "name": "New York"
+    },
+    {
+      "id": "6",
+      "name": "Rajastan"
+    },
+    {
+      "id": "7",
+      "name": "Tennessee"
+    }
+  ]
+}
